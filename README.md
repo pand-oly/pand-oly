@@ -1,14 +1,39 @@
-# Oi! Eu sou Henrique Oliveira 👋
-<br/>
+<h1 align="center">
+  
+  Oi! Eu sou Henrique Oliveira 👋
+  
+</h1>
 
-### Sobre mim
-<p>sou estudande da trybe
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to++my+GitHub+Profile!">
+
+</p>
 
 ##
 
-### Links
+<br/>
 
-<div> 
+<h3 align="center">
+
+  Sobre mim
+
+</h3>
+
+<p align="center"> sou estudande da trybe
+ 
+
+##
+
+<div align="center">
+
+<h3>
+
+  Links
+
+</h3>
+
   <a href="https://www.linkedin.com/in/rick-oly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "hoa98hoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
