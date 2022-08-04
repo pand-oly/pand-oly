@@ -40,16 +40,22 @@
 
 ##
 
-<div display="flex" align="center">
+<div align="center" style="display: flex; flex-direction: collum; justify-content: center;">
   <a href="https://github.com/pand-oly?tab=repositories">
+
+  <div
+    style="display: flex; flex-direction: column; justify-content: center; flex-wrap: wrap;"
+  >
+    <img align="center"  style="padding-bottom: 15px;" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center"  style="padding-bottom: 15px;" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center"  style="padding-bottom: 15px;" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center"  style="padding-bottom: 15px;" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center"  style="padding-bottom: 15px;" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  </div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
 
