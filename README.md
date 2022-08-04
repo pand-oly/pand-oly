@@ -41,7 +41,14 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/pand-oly">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pand-oly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pand-oly&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/pand-oly?tab=repositories">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pand-oly&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+
+<!--
+  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pand-oly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
+
+-->
