@@ -44,7 +44,7 @@
   <a href="https://github.com/pand-oly?tab=repositories">
 
   <div
-    style="display: flex; flex-direction: column; justify-content: center; flex-wrap: wrap;"
+    style="flex-wrap: wrap;"
   >
     <img align="center"  style="padding-bottom: 15px;" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center"  style="padding-bottom: 15px;" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
