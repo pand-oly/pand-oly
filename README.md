@@ -30,7 +30,6 @@ Meus objetivos para o Futuro é desenvolver inteligencia artificial ou trabalhar
 
 <div style="display: flex; flex-direction: column;" >
 
-  <a href="https://github.com/pand-oly?tab=repositories">
   <h3>Languages</h3>
   <div style="flex-wrap: wrap;" >
     <img align="center"  style="padding-bottom: 15px;" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
