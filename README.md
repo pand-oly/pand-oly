@@ -7,7 +7,13 @@
 -------
 
 <h3 align="center">Sobre mim</h3>
-<p align="center"> sou estudande da trybe </p>
+<p>
+  Ola! Eu sou Henrique tenho 24 anos antigamente trabalhava com pintura automotiva, Agora sou estudante de desenvolvimento web na Trybe, Sou apaixonado por natureza e tecnologia e busco uma oportunidade de emprego.
+
+Meus objetivos para o presente é conseguir um emprego, abrir meu leque de conhecimento, ter mais repertorio, ter mais experiencias com o mercado de trabalho, ter mais experiencias.
+
+Meus objetivos para o Futuro é desenvolver inteligencia artificial ou trabalhar com cibersegurança e ajudando a desenvolver inovações e comodidades.
+</p>
  
 
 -------
@@ -22,7 +28,7 @@
 
 -------
 
-<div style="display: flex; flex-wrap: row;" >
+<div style="display: flex; flex-direction: column;" >
 
   <div style="display: flex; flex-direction: collum; justify-content: center;" >
     <a href="https://github.com/pand-oly?tab=repositories">
@@ -70,7 +76,9 @@
     </div>
   </div> 
 
-  <div  style="flex-wrap: row;" >   
+---------------------
+
+  <div>   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
   
