@@ -34,6 +34,7 @@ Meus objetivos para o Futuro é desenvolver inteligencia artificial ou trabalhar
   <div style="flex-wrap: wrap;" >
     <img align="center"  style="padding-bottom: 15px;" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center"  style="padding-bottom: 15px;" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center"  style="padding-bottom: 15px;" alt="Js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center"  style="padding-bottom: 15px;" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center"  style="padding-bottom: 15px;" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </div>
@@ -57,7 +58,6 @@ Meus objetivos para o Futuro é desenvolver inteligencia artificial ou trabalhar
   <h3>Test</h3>
   <div style="flex-wrap: wrap;" >
     <img align="center"  style="padding-bottom: 15px;" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-    <img align="center"  style="padding-bottom: 15px;" alt="TL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
     <img align="center"  style="padding-bottom: 15px;" alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
     <img align="center"  style="padding-bottom: 15px;" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
     <img align="center"  style="padding-bottom: 15px;" alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
