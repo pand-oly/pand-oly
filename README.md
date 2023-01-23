@@ -19,7 +19,7 @@ Ainda não tenho experiência no mercado de trabalho mas já fiz vários projeto
   Há coisas que ainda não citei foram tecnologias que só estudei o básico do básico só pra conhecer ou que precisei mas não me aprofundei
 Pode parecer muita coisa mas esse ano fui todo focado em estudos, agora estou procurando experiência no mercado de trabalho. aprofundar meus conhecimentos no que já sei e passar para o próximo nível
 
-Alguns do meus projetos feitos na Trybe e alguns outros estão em [meu repositórios](https://github.com/pand-oly?tab=repositories)
+Alguns do meus projetos feitos na Trybe e alguns outros estão no [repositórios](https://github.com/pand-oly?tab=repositories) aqui no github
 
   </div>
  
