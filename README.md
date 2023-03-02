@@ -42,6 +42,8 @@ Alguns do meus projetos feitos na Trybe e alguns outros estão no [repositórios
   
   [![Top Langs](https://github-readme-stats-nbcdw4pht-pand-oly.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/pand-oly/github-readme-stats)
   
+  [![Top Langs](https://github-readme-stats-nbcdw4pht-pand-oly-rula.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/pand-oly/github-readme-stats)
+  
   </div>  
 </div>
 
