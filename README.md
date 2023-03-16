@@ -1,3 +1,5 @@
+[![An image of @pand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pand)](https://holopin.io/@pand)
+
 <h1 align="center">Oi! Eu sou Henrique Oliveira 👋</h1>
 
 <p align="center">
