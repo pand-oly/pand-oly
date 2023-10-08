@@ -29,7 +29,7 @@ Sou do interior de Minas Gerais, adoro estar perto da natureza, amo animais e bu
 
 ---------------------
 
-  <div>
+ <!-- <div>
   
   [![Top Langs](https://github-readme-stats-rula-6r64go11c-pand-oly.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/pand-oly/github-readme-stats)
   
