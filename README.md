@@ -10,12 +10,17 @@
 
 <h3 align="center">Sobre mim</h3>
 <p>
-  Sou desenvolvedor full-stack júnior em transição de carreira e em busca da minha primeira oportunidade. Comecei meus estudos em programação com cursos na Udemy em 2020 e de janeiro de 2022 a fevereiro de 2023 cursei o curso de Desenvolvimento Web Full-stack na Trybe. Tenho experiência em JavaScript, TypeScript, Python, React, MySQL, PostgreSQL, MongoDB, estruturas REST API, testes unitários e de integração, e pratico TDD (Test Driven Development).
-
-Sou do interior de Minas Gerais, adoro estar perto da natureza, amo animais e busco a preservação ambiental por meio da tecnologia. Amo tecnologia e gosto da comodidade que ela proporciona. Anteriormente, trabalhava na área automotiva e, como já pensava em mudar de área, decidi buscar algo mais relacionado aos meus interesses. Gosto de aprender, pois sou uma pessoa curiosa que sempre tenta entender o porquê e como das coisas. Imagino que seria incrível conseguir um emprego na área de programação, pois assim poderia me conectar com vários tipos de projetos, conhecer várias pessoas e talvez até viajar para outros países e conhecer novas culturas.
- 
+ Sou do interior de Minas Gerais, adoro estar perto da natureza, amo animais e busco uma forma sustentável de viver. Amo tecnologia e gosto da comodidade que ela proporciona, e também busco um emprego no qual possa fazer a diferença para gerar um mais comodidades pro nosso futuro e adoraria trabalhar com mais flexibilidade. Porque anteriormente, trabalhava na área de reparo automotivo, e lá não tinha muito da emoção de mover o futuro era um trabalho entediante, muito restritivo sem novidades e eu perdia muitas horas do meu dia em ônibus, ganhava o suficiente pra sobreviver e eu almejava mais (tipo ter uma boa casa) o que o emprego me proporcionava e a expectativa de futuro não era muito diferente do presente então me sentia muito estagnado.
+Então resolvi aprender programação já que é uma profissão com muitas coisas do do meu interesse e promete muito.
+Eu sempre buscar algo novo pra aprender e esta exercitando a mente, eu sou bem curioso pra entender os porquês. Imagino que seria incrível conseguir um emprego na área de programação, pois assim poderia me conectar com vários tipos de projetos, conhecer várias pessoas e talvez até viajar para outros países e conhecer novas culturas.
 </p>
- 
+
+<h3 align="center">Sobre meus conhecimentos</h3>
+<p>
+  Me considero um desenvolvedor full-stack júnior, estou em transição de carreira e em busca da minha primeira oportunidade.
+Comecei meus estudos em programação com cursos na Udemy em 2021 conclui curso de logica e python e em janeiro de 2022 até fevereiro de 2023 cursei o curso de Desenvolvimento Web Full-stack na Trybe. Lá ganhei experiência em JavaScript, TypeScript, Python, React, MySQL, PostgreSQL, MongoDB, estruturas REST API, testes unitários e de integração, e pratico TDD (Test Driven Development).
+Após eu terminar o curso na Trybe procurei empregos pelos 2 primeiros meses mas tive que dar uma pausa nas buscas pois tinha assuntos familiares pra resolver.
+</p>
 
 -------
 
@@ -27,17 +32,3 @@ Sou do interior de Minas Gerais, adoro estar perto da natureza, amo animais e bu
     <a href = "hoa98hoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
----------------------
-
- <!-- <div>
-  
-  [![Top Langs](https://github-readme-stats-rula-6r64go11c-pand-oly.vercel.app/api/top-langs/?username=pand-oly&theme=radical&text_color=f8d847&langs_count=20)](https://github.com/pand-oly/github-readme-stats)
-  
-  </div>  
-</div>
-
-<!--
-  
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pand-oly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
-
--->
